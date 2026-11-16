@@ -15,7 +15,7 @@ Outside of work I make small tools and side projects. I write about ML engineeri
 
 <!-- projects:start -->
 - **[Room Layout Planner](https://pushkar.io/projects/room-layout-planner/)**: A to-scale floor plan for arranging furniture, which flags overlaps, blocked door swings and tight walkways as you move things
-- **[Koday](https://pushkar.io/projects/koday/)**: A phone-first daily puzzle site with eight small logic and word games, a fresh set every local midnight
+- **[Koday](https://pushkar.io/projects/koday/)**: A daily puzzle site with three original logic games — Prism, Fold, and Tumble — a fresh set every local midnight
 - **[SmartBlock](https://pushkar.io/projects/smartblock/)**: Chrome and Brave extension for page-aware website time blocking with local Ollama classification
 - **[Pulse Deck](https://pushkar.io/projects/pulse-deck/)**: macOS Stream Deck plugin for glanceable CPU, RAM, ping, battery, and uptime telemetry
 <!-- projects:end -->
